@@ -21,17 +21,18 @@ The preposition inside the wo-compound is the same preposition that the verb req
 
 ### Examples
 
-| Wo-compound   | Preposition | Verb combination              | Example |
-|---------------|-------------|-------------------------------|---------|
-| **wor**über   | über        | sich ärgern **über**          | Worüber ärgerst du dich? *(What are you upset about?)* |
-| **wof**ür     | für         | sich interessieren **für**    | Wofür interessierst du dich? *(What are you interested in?)* |
-| **wov**on     | von         | träumen **von**               | Wovon träumst du? *(What do you dream of?)* |
-| **wom**it     | mit         | schreiben **mit**             | Womit schreibst du? *(What do you write with?)* |
-| **wor**auf    | auf         | warten **auf**                | Worauf wartest du? *(What are you waiting for?)* |
-| **wor**an     | an          | denken **an**                 | Woran denkst du? *(What are you thinking about?)* |
-| **wor**in     | in          | liegen **in**                 | Worin liegt der Unterschied? *(Where does the difference lie?)* |
-| **wog**egen   | gegen       | sein **gegen**                | Wogegen bist du allergisch? *(What are you allergic to?)* |
-| **woz**u      | zu          | benutzen **zu**               | Wozu benutzt du das? *(What do you use that for?)* |
+| Wo-compound   | Preposition | Verb combination              | Example | Memory Trick |
+|---------------|-------------|-------------------------------|---------|--------------|
+| **wor**über   | über        | sich ärgern **über**          | Worüber ärgerst du dich? *(What are you upset about?)* | angry abt Uber driver |
+| **wof**ür     | für         | sich interessieren **für**    | Wofür interessierst du dich? *(What are you interested in?)* | |
+| **wov**on     | von         | träumen **von**               | Wovon träumst du? *(What do you dream of?)* | dreaming von (my holiday) |
+| **wom**it     | mit         | schreiben **mit**             | Womit schreibst du? *(What do you write with?)* | |
+| **wor**auf    | auf         | warten **auf**                | Worauf wartest du? *(What are you waiting for?)* | waiting for auf (my holiday) |
+| **wor**an     | an          | denken **an**                 | Woran denkst du? *(What are you thinking about?)* | thinking an (my job) |
+| **wor**in     | in          | liegen **in**                 | Worin liegt der Unterschied? *(Where does the difference lie?)* | |
+| **wog**egen   | gegen       | sein **gegen**                | Wogegen bist du allergisch? *(What are you allergic to?)* | |
+| **woz**u      | zu          | benutzen **zu**               | Wozu benutzt du das? *(What do you use that for?)* | use a zoo ticket |
+| **wor**um     | um          | sich kümmern **um**           | Worum kümmerst du dich? *(What are you taking care of?)* | take care of my umbrella |
 
 ---
 
